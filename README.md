@@ -8,7 +8,7 @@ A full-stack Django-based web application to list, manage, and view Initial Publ
 
 - 🏢 List all IPOs with company name, logo, price band, issue type, status, etc.
 - 🔍 View IPO details like listing price, CMP, listing gain, and returns
-- 📦 Admin panel to create, edit, or delete IPOs
+- 📦 Admin panel to create, edit, or delete IPOs 
 - 📥 Upload RHP and DRHP PDFs
 - 📊 REST API for integration with other apps/systems
 - 💻 Frontend built using HTML, CSS, JavaScript & Bootstrap
